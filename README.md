@@ -5,8 +5,13 @@
 
  <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,nodejs,express,figma,github,postman,discord,linkedin" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,nodejs,figma,github,postman,discord,linkedin" />
 </a>
   <br />
 
   </div>
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=jeffolivera&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
